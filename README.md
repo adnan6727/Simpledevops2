@@ -1,3 +1,3 @@
 # Simpledevops2
-Shell script
-##
+#Shell script
+##Author Adnan
